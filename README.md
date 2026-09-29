@@ -4,7 +4,7 @@ An offline-first desktop management system for dental clinics, designed for dail
 
 > **Note:** This is a production system built for a real clinic, so the source code is kept in a private repository. This page documents the product and its architecture.
 
-![System overview: doctor client and reception server synced in real time over the local network](docs/screenshots/system-overview.jpg)
+![System overview: doctor client and reception server synced in real time over the local network](docs/screenshots/01-cover.jpg)
 
 ## Highlights
 
@@ -17,7 +17,7 @@ An offline-first desktop management system for dental clinics, designed for dail
 
 ## Screenshots
 
-![Waiting-room TV display showing the current and upcoming queue numbers](docs/screenshots/waiting-room-display.jpg)
+![Waiting-room TV display showing the current and upcoming queue numbers](docs/screenshots/10-tv-waiting-display.jpg)
 
 ## Architecture
 
